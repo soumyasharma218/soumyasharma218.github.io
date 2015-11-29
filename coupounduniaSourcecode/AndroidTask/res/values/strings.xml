@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidTask</string>
+    <string name="title">Restaurant Offers</string>
+     <string name="title_tab1"> IN Your City</string>
+      <string name="title_tab2">Near By</string>
+       <string name="title_tab3">Best Offers</string>
+</resources>

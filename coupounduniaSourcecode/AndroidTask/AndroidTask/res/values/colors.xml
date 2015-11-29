@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+ <color name="headr_filer">#3598db</color>
+  <color name="headr_textclr">#ffffff</color>
+   <color name="item_color">#ffffff</color>
+    <color name="margin_filer">#ededed</color>
+     <color name="headingtext">#c1c1c1</color>
+     <color name="subtext">#fdfdfd</color>
+      
+</resources>

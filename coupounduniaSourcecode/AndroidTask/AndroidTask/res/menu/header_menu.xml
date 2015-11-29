@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Search / will display always -->
+    <item
+        android:id="@+id/appicon"
+        android:icon="@drawable/app_icon"
+        android:showAsAction="always"/>
+
+    <!-- Location Found -->
+    <item
+        android:id="@+id/title"
+        android:showAsAction="always|withText"
+        
+        android:title="@string/title"/>
+
+    <!-- Refresh -->
+    <item
+        android:id="@+id/filter"
+        android:icon="@drawable/filter_icon"
+        android:showAsAction="always"/>
+
+    <!-- Help -->
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search"
+        android:showAsAction="always"/>
+
+</menu>
